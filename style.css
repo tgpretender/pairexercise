@@ -8,3 +8,9 @@
     background-color: red;
     border: 2px solid pink;
 }
+
+section {
+    background-color: black;
+    color: white;
+    border: 5px dashed white;
+}
